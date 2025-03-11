@@ -5,3 +5,8 @@ const tea = "teacher";
 
 
 let p = 7;
+
+
+
+
+const game  = "play";
